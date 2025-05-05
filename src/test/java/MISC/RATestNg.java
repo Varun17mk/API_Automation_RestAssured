@@ -1,3 +1,5 @@
+package MISC;
+
 import io.restassured.RestAssured;
 import org.testng.annotations.Test;
 

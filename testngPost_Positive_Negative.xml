@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="B:/JAVA CODES/APIAutomationRestAssured/src/test/java/com/RShetty">
         <classes>
-            <class name="RATestNg"></class>
+            <class name="MISC.RATestNg"></class>
         </classes>
     </test>
 </suite>
